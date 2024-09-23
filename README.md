@@ -12,5 +12,4 @@ maanden en dagen weer te geven.
 
 ![Afbeelding met tekst, schermopname, scherm, software Automatisch
 gegenereerde
-beschrijving](./media/image1.png){width="6.399305555555555in"
-height="3.60625in"}
+beschrijving](./media/image1.png)
